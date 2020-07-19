@@ -1,3 +1,4 @@
+{
 "i": Faceți click aici pentru a adăuga acest robot la serverul dumneavoastră.
 "i_dm": Verifică mesajele primite.
 "i_ss": roboții sprijină serverul
@@ -147,3 +148,4 @@ command_guild_only": Această comandă se poate folosi doar în serverul suport
 "m_joined":Conectat la server
 "m_stats":Status
 "days_ago":Zile în urmă.
+}
