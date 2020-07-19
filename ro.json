@@ -1,151 +1,155 @@
 {
-"i": Faceți click aici pentru a adăuga acest robot la serverul dumneavoastră.
-"i_dm": Verifică mesajele primite.
-"i_ss": roboții sprijină serverul
-"q_c": subiectul mesajului
-"q_l": link-ul mesajului
-"q_l_c": poți să lași mesajul aici
-"q_m_o": mesajul proprietarului
-"q": mesajul citat
-"q_m_err": te rugăm să adaug un ID valid
-"q_m_err2": ID-ul trebuie să conțină doar numere. Te rugăm să adaug un ID valid
-"um":Mesajul nu poate fi găsit
-"prefix":Prefix/prefixe
-"undefined":Datele nu se găsesc.
-"help_title":Ajutor
-"help_desc":Arată comenzile 
-"command_owner_only": Această comandă este doar pentru proprietar
-"not_enough_permission": Ai nevoie de permisiune pentru a utiliza această comandă.
-command_guild_only": Această comandă se poate folosi doar în serverul suport
-"ping_command": Semnalul tău este:
-"specify_language": Te rugăm să specifici o limbă
-"specify_valid_language": Te rugăm să adaugi o limbă validă. Limbi valide:
-"language_updated": Limba ta a fost încărcată cu succes.
-"warn":Avertisment
-"succ":Succes
-"result":Rezultat
-"auth":Persoana autorizată
-"action":Acțiune
-"chat":Convorbire
-"footer":Lansat de smskBOT 
-"p_by":Șters de
-"p_c":Câți?
-"p_purge":Ștergerea convorbirii
-"p_perm_err":Ai nevoie de permisiunea managerului de a șterge mesajele
-"p_c_err":Te rugăm să introduci un număr valid
-"p_c_100_err":Te rugăm să introduci un număr mai mic ca 100
-"ann":Anunț
-"ann_sys":smskBOT anunț sistem
-"ann_args_err":Ar trebui să scrieți undeva pentru a anunța
-"avatar_sys":Sistemul avatarului 
-"avatar_show":Arată avatarul mai mare
-"avatar_err":A apărut o eroare
-"u":Actualizare
-"u_title":O noua actualizare a fost făcută
-"u_info":Informațiile actualizării
-"v_arg_err":Trebuie să scri ceva ca să votezi
-"v_info":Pentru a vota cu "Da":thumbsup:Pentru a vota cu "Nu":thumbsdown.
-"v":Votează
-"g":Dăruiește 
-"g_args_err":Trebuie să scrieți ce va fi tragerea la sorți
-"g_prize":Premiu
-"g_winner":Câștigător
-"e":Utilizare: componente [Titlu];[Descriere];[Culoare];[Imagine]
-"e_err":Eroare!Trebuie sa specifici titlul!
-"banned":Interzis!
-"ban_err":Eroare de autoritate! Utilizatorii au avut fie mai multă autoritate decât mine, fie există o eroare de cod. Vă rugăm să raportați eroarea!
-"k_dm":Nu poți să folosești aceasta comandă la mesaje.
-"k_mention":Menționează persoana te rog
-"k_admin_err":Nu poți lovi adminii
-"kkicked":Lovit!!!
-"north":Nord
-"north_east": Nord_Est
-"northeast":Nord Est
-"east":Est
-"east_south":Est_Sud
-"southeast":Sud Est
-"south_east":Sud_Est 
-"south":Sud
-"south_southwest":Sud Sud_Vest
-"south_west":Sud Vest
-"west_south":Vest_Sud
-"west":Vest
-"west_nord":Vest_Nord
-"northwest":Nord-Est
-"north_west":Nord_Nord-Vest
-"w_info":Oprire aer pentru
-"w_coor":Coordonate
-"w_lat":Latitudine
-"w_long":Longitudine
-"w_c_id":Obțineți licența
-"w_wind":Vânt
-"w_direction":Direcție
-"w_speed":Viteză
-"w_could":Viteză de nori
-"w_cond":Brăzdare de aer
-"w_curr_temp":Căldura
-"w_high_temp":Temperatura maximă
-"w_low_temp":Temperatură minimă
-"w_mois":Umiditate
-"ww_bar_press":Presiunea barometrică 
-"w_sun":Soarele 
-"w_sunrise":Răsărit
-"w_sunset":Apus
-"c_question":Întrebare 
-"c_answer":Răspuns
-"c_err":Te rugăm să specifici o acțiune.
-"c_m_err":Actiune greșită
-"modlog_err":Te rugăm să specifici un canal identificator
-"modlog_updated": Canal actualizat cu succes
-"j_title":Glumă
-"t_l_err":Specifică o limbă pentru traducere
-"t_m_err":Te rugam specifică un cuvânt sau o propoziție de tradus
-"t":Traduce
-"t_text":Text 
-"translate": Traducerile nu pot fi complete.Te rrugăm să adaugi serverul nostru suport pentru a corecta această problemă".
-"us_central":America
-"us_east":America centrală
-"us_south":America de Sud
-"us_west":America de Vest
-"eu_west":Europa de Vest
-"singapore":Singapore
-"london":Londra
-"japan":Japonia
-"russia":Rusia
-"hongkong":Hong Kong
-"brazil":Brazilia
-"sydney":Sidney
-"southafrica":Africa de sud
-"s_info":Informațiile serverului
-"s_creator":Serverul creatorului
-"s_id":ID-ul serverului
-"s_created_at":Creat la
-"s_region":Serverul regiunii 
-"s_channels":Canale
-"s_users":Utilizatori
-"s_afk_timeout":Pauză
-"s_emoji":Număr emoji
-"s_role":Număr rol
-"text":Text 
-"voice":Voce
-"category":Categorie
-"s_afk_undefined":Nu se poate găsi canalul
-"online":Online
-"offline":Offline
-"dnd":Nu deranja
-"Bot":Robot
-"sec":Secunde
-"s_emoji_info":Poți sa vezi toate emoji-urile prin accesarea serverului emoji
-"s_role_info": Poti sa vezi toate rolurile în serverul rol
-"err_args":Te rugam introdu Args 
-"g_succ":Aici este link-ul tău
-"day":Zile
-"hour":Ore
-"min":Minute
-"m_id":ID-ul membrului
-"m_roles":Roluri
-"m_created_at":Contul creat
-"m_joined":Conectat la server
-"m_stats":Status
-"days_ago":Zile în urmă.
+    "i": "apasa aici pentru a adauga acest bot in server-ul tau",
+    "i_dm": "uita-te la DM-urile tale. 📮",
+    "i_ss": "Server pentru supportul bots-ilor",
+    "q_c": "Mesaj de subiect",
+    "q_l": "Mesaj de link",
+    "q_l_c": "Poti ajunge cu mesajul pana aici.",
+    "q_m_o": "Contacteaza proprietarul",
+    "q": "Mesaj de citat",
+    "q_m_err": "Te rugam introdu un ID valid",
+    "q_m_err2": "ID-ul ar trebui sa fie facut doar din numere. Te rugam introdu un ID valid.",
+    "um": "Mesajul nu poate fi gasit.",
+    "prefix": "Prefix/uri",
+    "undefined": "Datele nu pot fi gasite",
+    "help_title": "Ajutor",
+    "help_desc": "Arata toate comenzile",
+    "command_owner_only": "Aceasta comanda este numai pentru proprietar.",
+    "not_enough_permission": "Ai nevoie de permisiunile `{permissions}` pentru a utiliza aceasta comanda.",
+    "command_guild_only": "Aceasta comanda poate fi folosita doar in serverul de support.",
+    "ping_command": "🏓 Ping-ul tau este {ping}ms",
+    "specify_language": "Te rugam specifica o limba",
+    "specify_valid_language": "Te rugam specifica o limba valida. Limbi valide: `{languages}`",
+    "language_updated": "Limba ta a fost imbunatatita cu succes!",
+    "warn": "⚠️ Avertisment ⚠️",
+    "succ": "Cu succes",
+    "result": "Rezultat",
+    "auth": "Persoana autorizata",
+    "action": "Actiune",
+    "chat": "Chat",
+    "footer": "Pornit de smskBOT",
+    "p_by": "Sters de",
+    "p_c": "cat de mult",
+    "p_purge": "Stergand chat-ul",
+    "p_dm_err": "Nu poti folosi aceasta comanda in mesaje directe.",
+    "p_perm_err": "Ai nevoie de permisiunea `Manage Messages` ca sa stergi mesaje.",
+    "p_c_err": "Te rugam introdu un numar valid",
+    "p_c_100_err": "Te rugam introdu un numar mai mic decat 100!",
+    "ann": "ANUNT",
+    "ann_sys": "Sistem de anuntare smskBOT",
+    "ann_args_err": "Ar trebui sa scrii ceva pentru a anunta",
+    "avatar_sys": "Sistem Avatar",
+    "avatar_show": "Arata avatarul mai mare",
+    "avatar_err": "O eroare a aparut",
+    "u": "Update",
+    "u_title": "Un nou Update a fost facut!",
+    "u_info": "Update Info",
+    "v_arg_err": "Ar trebui sa scrii ceva pentru a vota!",
+    "v_info": "Pentru a vota cu da: :thumbsup: Pentru a vota cu nu: :thumbsdown:",
+    "v": "Voteaza",
+    "g": "Giveaway",
+    "g_args_err": "Va trebui sa scrii ce va fi desenul.",
+    "g_prize": "Premiu",
+    "g_winner": "Castigator",
+    "e": "Utilizare: !embed [Title]; [Description]; [Color]; [Image]",
+    "e_err": "Error! You Need To Specify Title!",
+    "banned": "Banat!",
+    "ban_err": "Eroare de autoritate! Utilizatorul are fie mai multa autoritate decat mine fie exista un cod de eroare! Te rugam raporteaza eroarea!",
+    "k_dm": "Nu poti folosi aceasta comanda in DM.",
+    "k_mention": "Mentioneaza persoana te rog.",
+    "k_admin_err": "Nu poti da afara administratori.",
+    "kicked": "Dat afara!!!",
+    "north": "Kuzey",
+    "north_east": "Kuzey_Kuzeydoğu",
+    "northeast": "Kuzeydoğu",
+    "east_north": "Doğu_Kuzeydoğu",
+    "east": "Doğu",
+    "east_south": "Doğu_Güneydoğu",
+    "southeast": "Güneydoğu",
+    "south_east": "Güney_Güneydoğu",
+    "south": "Güney",
+    "south_southwest": "Güney_Güneybatı",
+    "south_west": "Güneybatı",
+    "west_south": "Batı_Güneybatı",
+    "west": "Batı",
+    "west_north": "Batı_Kuzeybatı",
+    "northwest": "Kuzeybatı",
+    "north_west": "Kuzey_Kuzeybatı",
+    "w_info": "için Hava Durumu",
+    "w_coor": "Koordinatları",
+    "w_lat": "Enlem",
+    "w_long": "Boylam",
+    "w_c_id": "Şehrin IDsi",
+    "w_wind": "Rüzgar",
+    "w_direction": "Yönü",
+    "w_speed": "Hızı",
+    "w_cloud": "Bulut Oranı",
+    "w_cond": "Hava Koşulları",
+    "w_curr_temp": "Mevcut Sıcaklık",
+    "w_high_temp": "En Yüksek Sıcaklık",
+    "w_low_temp": "En Düşük Sıcaklık",
+    "w_mois": "Nem",
+    "w_bar_press": "Barometrik Basınç",
+    "w_sun": "Güneş",
+    "w_sunrise": "Gündoğumu",
+    "w_sunset": "Günbatımı",
+    "c_question": "Intrebare",
+    "c_answer": "Raspuns",
+    "c_err": "Te rugam specifica o actiune. **Usage**: calc <action>",
+    "c_m_err": "Actiune gresita",
+    "modlog_err": "Te rugam specifica ID-ul unui canal",
+    "modlog_updated": "Canalul Modlog imbunatatit cu succes",
+    "j_title": "Gluma",
+    "t_l_err": "Te rugam specifica o limba pentru a traduce. (Shortcode!)",
+    "t_m_err": "Te rugam specifica un cuvant sau o propozitie pentru a traduce",
+    "t": "Traduce",
+    "t_text": "Text",
+    "translate": "Traducerile s-ar putea sa nu fie complete. Te rugam introdu serverul nostru de support pentru a corecta aceasta problema.",
+    "us_central": "America :flag_us:",
+    "us_east": "East America :flag_us:",
+    "us_south": "South America :flag_us:",
+    "us_west": "West America :flag_us:",
+    "eu_west": "West Europe :flag_eu:",
+    "singapore": "Singapure :flag_sg:",
+    "london": "London :flag_gb:",
+    "japan": "Japan :flag_jp:",
+    "russia": "Russia :flag_ru:",
+    "hongkong": "Hong Kong :flag_hk:",
+    "brazil": "Brazil :flag_br:",
+    "sydney": "Sidney :flag_au:",
+    "southafrica": "South Africa :flag_za:",
+    "s_info": "Informatiile serverului",
+    "s_creator": "Creatorul serverului",
+    "s_id": "ID-ul serverului",
+    "s_created_at": "Creat la",
+    "s_region": "Regiunea serverului",
+    "s_channels": "Canale",
+    "s_users": "Utilizatori",
+    "s_afk": "Canal AFK",
+    "s_afk_timeout": "AFK Timeout",
+    "s_emoji": "Numar de emoticoane",
+    "s_role": "Numar de roluri",
+    "text": "Text",
+    "voice": "Voce",
+    "category": "Categorie",
+    "s_afk_undefined": "Nu se poate gasi canalul AFK",
+    "online": "Activ",
+    "offline": "Neactiv",
+    "dnd": "Nu deranja",
+    "idle": "Idle",
+    "bot": "Bot",
+    "sec": "secunde",
+    "s_emoji_info": "Poti vedea toate emoticoanele scriind emoji in server.",
+    "s_role_info": "Poti vedea toate rolurile din server scriind roller.",
+    "err_args": "Te rugam introdu args.",
+    "g_succ": "Aici e link-ul tau.",
+    "day": "Zile",
+    "hour": "Ore",
+    "min": "minute",
+    "m_id": "Membru ID",
+    "m_roles": "Roluri",
+    "m_created_at": "Cont creat la:",
+    "m_joined": "A intrat pe server la",
+    "m_stats": "Statut",
+    "days_ago": "Acum (S) zile"
 }
